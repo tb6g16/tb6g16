@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb6g16)](https://github.com/tb6g16/github-readme-stats)
+
 <!--
 **tb6g16/tb6g16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
