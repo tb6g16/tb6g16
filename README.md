@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb6g16)](https://github.com/tb6g16/github-readme-stats)
 
