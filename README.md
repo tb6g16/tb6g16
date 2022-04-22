@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb6g16&count_private=true&show_icons=true&theme=dark)](https://github.com/tb6g16/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb6g16&count_private=true&show_icons=true&theme=dark&orgs=The-ReSolver)](https://github.com/tb6g16/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tb6g16&layout=compact&theme=dark)](https://github.com/tb6g16/github-readme-stats)
 
