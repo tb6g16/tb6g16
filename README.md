@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tb6g16&layout=compact&theme=dark&orgs=The-ReSolver)](https://github.com/tb6g16/github-readme-stats)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tb6g16/langs)](https://githubtrends.io)
+
 <!--
 **tb6g16/tb6g16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
