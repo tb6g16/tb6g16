@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb6g16&count_private=true&show_icons=true&theme=dark&orgs=The-ReSolver)](https://github.com/tb6g16/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb6g16&count_private=true&show_icons=true&theme=dark&orgs=The-ReSolver)](https://github.com/tb6g16/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tb6g16&layout=compact&theme=dark&orgs=The-ReSolver)](https://github.com/tb6g16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tb6g16&layout=compact&theme=dark&orgs=The-ReSolver)](https://github.com/tb6g16/github-readme-stats) -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tb6g16/langs)](https://githubtrends.io)
+[![GitHub Trends SVD](https://api.githubtrends.io/user/svg/tb6g16/repos?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
 <!--
 **tb6g16/tb6g16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
